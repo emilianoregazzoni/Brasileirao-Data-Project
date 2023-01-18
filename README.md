@@ -6,6 +6,7 @@ In 2021 the competition was chosen by the IFFHS as the strongest national league
 
 Scenario: I'm passionate about soccer. Since I was a child I love this sport and one of my dreams, maybe one day, work for a soccer team, 
 in a data scientist position.
+
 I want to work with Brasileirao information, and try to discover things about Brazil soccer. Search on the data, clean the data, create some visualizations, identify some patterns and try to predict the new 2023 Brasileirao champion.
 
 
