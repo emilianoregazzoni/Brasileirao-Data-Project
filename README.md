@@ -18,7 +18,7 @@ I have searched on Internet about Brasileirao. I found in Kaggle a nice dataset,
 
 Here the original dataset: https://www.kaggle.com/code/josevitormichelin/brasileirao-2003-2019
 
-I completed this dataset with information about 2020, 2021 and 2022 with information from Wikipedia.
+I completed the dataset with information about 2020, 2021 and 2022 taken from Wikipedia.
 
 My dataset combination here: https://www.kaggle.com/datasets/regazze/brasileirao-2003-2022
 
