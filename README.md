@@ -2,7 +2,7 @@
 ## __Brasileirao (CBF) Data Science Project__  
 
 Brasileirao is the most important competition in South America.
-In 2021 the competition was chosen by the IFFHS as the strongest national league in South America as well as the strongest in the world.
+In 2021 the competition was chosen by the IFFHS as the strongest national league in South America as well as the strongest in the world. Surpassing Premier League.
 
 Scenario: I am passionate about soccer. Since I was a child I love this sport and one of my dreams, maybe one day, work for a soccer team, 
 in a data scientist position.
