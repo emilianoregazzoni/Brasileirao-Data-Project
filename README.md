@@ -6,7 +6,7 @@ In 2021 the competition was chosen by the IFFHS as the strongest national league
 
 Scenario: I am passionate about soccer. Since I was a child I love this sport and one of my dreams, maybe one day, work for a soccer team, 
 in a data scientist position.
-I want to work with Brasileirao information, and try to discover things about Brazil soccer. Search on the data, clean the data, create some visualizations, identify some patterns and try to predict the new 2023 Brasileirao champion.
+I want to work with Brasileirao information, and try to discover things about Brazil soccer. Search on the data, clean the data, create some visualizations, identify some patterns and train a model with the data.
 
 :scroll: The stages I am going to follow are:  
 Prepare - Process - Analyze - Share - Predict
@@ -34,6 +34,25 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns 
 ```
+
+After that I will take the file with information of Brasileirao that I mentioned before.
+
+```
+file = ('brasileirao3.xlsx')
+dataset = pd.read_excel(file)
+dataset.head()
+```
+
+![1](https://user-images.githubusercontent.com/20979227/226175783-1bd1bfbf-afe5-4f56-8d14-8488956abf46.JPG)
+
+Something I figured out is RedBull Bragantino previously called "Bragantino" , then "RB Bragantino" and now "Red Bull Bragantino", so if let this situation going on like this, Python will consider three diferents clubs. I fixed the name and there is only "Red Bull Bragantino".
+
+I Check the columns if every is ok.
+```
+dataset.info()
+```
+![2](https://user-images.githubusercontent.com/20979227/226175796-1e147f95-2531-4a2f-a2de-db885630271e.JPG)
+
 
 
 ## Analyze
