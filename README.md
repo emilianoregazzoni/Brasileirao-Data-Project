@@ -5,7 +5,7 @@ Brasileirao is the most important competition in South America.
 In 2021 the competition was chosen by the IFFHS as the strongest national league in South America as well as the strongest in the world. Surpassing Premier League.
 
 Scenario: I am passionate about soccer. Since I was a child I love this sport and one of my dreams, maybe one day, work for a soccer team, 
-in a data scientist position.
+in a data position area.
 I want to work with Brasileirao information, and try to discover things about Brazil soccer. Search on the data, clean the data, create some visualizations, identify some patterns and train a model with the data.
 
 :scroll: The stages I am going to follow are:  
