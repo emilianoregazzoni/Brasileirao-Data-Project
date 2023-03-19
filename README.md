@@ -22,10 +22,12 @@ I completed the dataset with information about 2020, 2021 and 2022 taken from Wi
 
 My dataset combination here: https://www.kaggle.com/datasets/regazze/brasileirao-2003-2022
 
-Also I created a new column called "Percentage win" that means the amount of points each team reached every tournament. Since 2003 Brasileirao, not every edition has the same amount of matches.
+Also I created a new column called "Percentage win" that means the amount of points each team reached every tournament. Since Brasileirao 2003 edition, not every edition had  the same amount of matches.
 After this step, I have all information needed for start with the process.
 
 ## Process
+First I need to import the necesesary libraries to work. I will use the most commons for this research.
+
 
 
 ## Analyze
