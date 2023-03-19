@@ -9,7 +9,7 @@ in a data position area.
 I want to work with Brasileirao information, and try to discover things about Brazil soccer. Search on the data, clean the data, create some visualizations, identify some patterns and train a model with the data.
 
 :scroll: The stages I am going to follow are:  
-Prepare - Process - Analyze & Share - Create and train a model
+Prepare - Process - Analyze & Share - Train a model
 
 
 ## Prepare
