@@ -143,7 +143,7 @@ plt.show()
 
 ![8](https://user-images.githubusercontent.com/20979227/226176278-61bbf6b8-a4d1-43f1-98c1-3f877cc9e459.JPG)
 
-Here I can see the best champions in Brasileirao era definitely was Flamengo squad of 2019. An insane squad leaded by Gabigol, De Arrascaeta, Vitinho, Everton Ribeiro. One of the best squads Brasielirao has ever had.
+Here I can see the best champions in Brasileirao era definitely was Flamengo squad of 2019. An insane squad leaded by Gabigol, De Arrascaeta, Vitinho, Everton Ribeiro. One of the best squads Brasileirao has ever had.
 
 Now I want to see the goal difference from Flamengo through the Brasileirao era.
 
