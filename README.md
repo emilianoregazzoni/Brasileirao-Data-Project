@@ -28,6 +28,12 @@ After this step, I have all information needed for start with the process.
 ## Process
 First I need to import the necesesary libraries to work. I will use the most commons for this research.
 
+```
+import pandas as pd 
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns 
+```
 
 
 ## Analyze
