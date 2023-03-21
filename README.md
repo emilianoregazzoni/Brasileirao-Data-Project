@@ -6,7 +6,7 @@ In 2021 the competition was chosen by the IFFHS as the strongest national league
 
 Scenario: I am passionate about soccer. Since I was a child I love this sport and one of my dreams, maybe one day, work for a soccer team, 
 in a data position area.
-I want to work with Brasileirao information, and try to discover things about Brazil soccer. Search on the data, clean the data, create some visualizations, identify some patterns and train a model with the data.
+I want to work with Brasileirao information, and try to discover things about Brazilian soccer. Search on the data, clean the data, create some visualizations, identify some patterns and train a model with the data.
 
 :scroll: The stages I am going to follow are:  
 Prepare - Process - Analyze & Share - Train a model
