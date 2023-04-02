@@ -310,5 +310,5 @@ R^2 score: 0.9021042875040574
 
 90.21% of the variability of the results can be explained by the variables included in the model.
 
-The model is so accurate with the information provided and I am happy to have done this.
+The model is so accurate with the information provided.
 
